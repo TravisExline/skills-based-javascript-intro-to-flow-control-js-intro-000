@@ -38,4 +38,3 @@ switch(age) {
     console.log("You have an age");
 }
 
-}
