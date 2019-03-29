@@ -34,7 +34,7 @@ switch(age) {
   case '19':
     console.log("You are a teenager");
   default:
-    console.log("You are an age");
+    console.log("You have an age");
 }
 
 }
