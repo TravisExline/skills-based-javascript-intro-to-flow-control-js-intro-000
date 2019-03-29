@@ -15,7 +15,7 @@ else {return "You are a grownup"}
 }
 
 function ternaryTeenager(age) {
-console.log('You' + (age >=13 <= 19 ? 'You are a teenager' : 'You are not a teenager'));
+console.log('You' + (age >= 13 <= 19 ? 'You are a teenager' : 'You are not a teenager'));
 }
 
 function switchAge(age) {
