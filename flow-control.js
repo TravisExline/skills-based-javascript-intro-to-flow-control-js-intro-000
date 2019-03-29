@@ -37,4 +37,3 @@ switch(age) {
   default:
     console.log("You have an age");
 }
-
